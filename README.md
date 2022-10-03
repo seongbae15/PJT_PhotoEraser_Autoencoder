@@ -1,5 +1,7 @@
 # Project : Photo Eraser
 
+- Restore Landmark Picture by Obstacle in front of Camera.
+
 ## My Laptop Env
 
 - CPU : AMD Ryzen 9 5900HS
@@ -44,3 +46,6 @@
   - Deeper Network.
   - More Batch Size.
   - Bigger Image Size.
+- Use other GAN Models.
+  - Cycle GAN.
+  - SinGAN.
