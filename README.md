@@ -36,6 +36,7 @@
 
 - Restore Image.
 - But, Low Resolution Image
+  <img src="./figures/result.png">
 
 ## More
 
