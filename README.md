@@ -30,7 +30,7 @@
 ## Data Augmentation
 
 - Create 12-Black Masks(64x64) for each train image.
-  ![img]("./figures/Custom_DA_sample.png")
+  <img src="./figures/Custom_DA_sample.png">
 
 ## Result
 
