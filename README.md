@@ -29,7 +29,7 @@
   - Use Phanteon, St. Peters Square, Colosseum
 - My Pictures
 
-## Data Augmentation
+## Create Datasets
 
 - Create 12-Black Masks(64x64) for each train image.
   <img src="./figures/Custom_DA_sample.png">
