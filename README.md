@@ -36,8 +36,7 @@
 
 ## Result
 
-- Restore Image.
-- But, Low Resolution Image
+- Restore Image with low resolution.
   <img src="./figures/result.png">
 
 ## More
