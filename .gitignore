@@ -1,6 +1,6 @@
 # Custom
 data
-result/autoenc
+result/best_model
 result/model_checkpoint
 .ipynb_checkpoint
 
