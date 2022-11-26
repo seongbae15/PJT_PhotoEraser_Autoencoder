@@ -72,6 +72,7 @@ class ConvAutoencoder(Model):
 
 - Restore Image with low resolution.
   <img src="./figures/result.png">
+  <img src="./figures/result2.png">
 
 ## More
 
