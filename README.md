@@ -20,14 +20,14 @@
 
 - Kaggle Image Matching Challenge 2022 Dataset
   - link : https://www.kaggle.com/competitions/image-matching-challenge-2022/data
-  - Use Phanteon, St. Peters Square, Colosseum
+  - Use Train Colosseum Exterior : 125ea
 
-### Test Data
+<!-- ### Test Data
 
 - Kaggle Image Matching Challenge 2022 Dataset
   - link : https://www.kaggle.com/competitions/image-matching-challenge-2022/data
-  - Use Phanteon, St. Peters Square, Colosseum
-- My Pictures
+  - Use Train Colosseum Exterior
+- My Pictures -->
 
 ## Create Datasets
 
@@ -35,6 +35,7 @@
   <img src="./figures/Custom_DA_sample.png">
 
 ## Model : Auto Encoder
+
 ```
 class ConvAutoencoder(Model):
     def __init__(self):
