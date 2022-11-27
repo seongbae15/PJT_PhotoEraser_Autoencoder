@@ -34,6 +34,17 @@
 - Create 12-Black Masks(64x64) for each train image.
   <img src="./figures/Custom_DA_sample.png">
 
+```
+def create_blackbox(origin_size, idx):
+    bbox_size = [64, 64]
+    col = origin_size[1] // bbox_size[1]
+    start_y = bbox_size[0] * (idx // col)
+    end_y = bbox_size[0] + start_y
+    start_x = bbox_size[1] * (idx % col)
+    end_x = bbox_size[1] + start_x
+    return start_y, end_y, start_x, end_x
+```
+
 ## Model : Auto Encoder
 
 - My Best Model link:https://drive.google.com/file/d/1k1QWk80_6o8rwzgAPfms9tdWrDvlRxlC/view?usp=sharing
