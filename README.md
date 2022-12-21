@@ -20,7 +20,7 @@
 
 - Kaggle Image Matching Challenge 2022 Dataset
   - link : https://www.kaggle.com/competitions/image-matching-challenge-2022/data
-  - Use Train Colosseum Exterior : 130ea (link:https://drive.google.com/drive/folders/1yLplmt9-ai9nmSz7sHUW4DPznj8d_dgg?usp=sharing)
+  - Use Train Colosseum Exterior (link:https://drive.google.com/drive/folders/1yLplmt9-ai9nmSz7sHUW4DPznj8d_dgg?usp=sharing)
 
 <!-- ### Test Data
 
